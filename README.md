@@ -5,7 +5,7 @@ This project involves the design, conceptualization, and implementation of a rel
 ##  Functional Description
 The database is designed to handle the following core game mechanics based on the system analysis:
 
-### 1. Player & Progression
+### 1. Player & Progression  
 * **Profile Management:** Tracks player XP, trophies, total victories, and current level.
 * **Leveling:** Players gain XP by winning matches or upgrading cards. Reaching an XP threshold increases the player level.
 * **Economy:** Manages Gold and specific Card Points required for upgrades.
@@ -48,4 +48,5 @@ The project includes the full design lifecycle:
 
 ### Technologies Used
 * **DBMS:** SQL Server 2022
+
 * **Language:** SQL, T-SQL
